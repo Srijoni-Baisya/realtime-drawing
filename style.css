@@ -1,0 +1,35 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Courgette', cursive;
+}
+
+.note{
+    font-size: 16px;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+.copy_right_footer{
+    position: fixed; /*sticky feature*/
+    color: white;
+    bottom: 0; /*extreme bottom*/
+    width: 100%;
+    background-color: darkblue;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+
+.canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body{
+    background-size: stretch;
+    background-position: center;
+}
