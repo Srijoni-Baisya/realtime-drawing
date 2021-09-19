@@ -33,3 +33,13 @@ body{
     background-size: stretch;
     background-position: center;
 }
+
+canvas{
+    border: 5px solid darkblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+h4{
+    font-family: 'Roboto Slab', serif;
+}
